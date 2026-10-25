@@ -1,0 +1,8 @@
+*.json
+*.fs
+*.log
+*.rpt
+
+*.tgz
+*.tar.gz
+*.vcd
